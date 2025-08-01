@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Présentation de YouTube</title>
-  <link rel="stylesheet" href="youtube.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -43,5 +43,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="Logo YouTube" width="120">
     </section>
   </main>
+
+  <footer>
+    <p>&copy; 2025 - Présentation simple de YouTube</p>
+  </footer>
+
 </body>
 </html>
